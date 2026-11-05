@@ -1,18 +1,26 @@
 
 {
-  "name": "You can’t steal a brainrot",
+  "name": "You can't steal a brainrot",
   "short_name": "Brainrot",
-  "start_url": "./brainrot_alpha81_multitrade.html",
-  "scope": "./",
+  "description": "You can't steal a brainrot - Alpha 81",
+  "id": "/-brainrot-game/",
+  "start_url": "/-brainrot-game/index.html",
+  "scope": "/-brainrot-game/",
   "display": "standalone",
   "background_color": "#08141b",
   "theme_color": "#08141b",
   "icons": [
     {
-      "src": "./brainrot_icon.png",
+      "src": "/-brainrot-game/brainrot_icon.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/-brainrot-game/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
