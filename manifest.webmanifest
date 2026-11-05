@@ -2,10 +2,10 @@
 {
   "name": "You can’t steal a brainrot",
   "short_name": "Brainrot",
-  "start_url": "./",
+  "start_url": "./brainrot_alpha81_multitrade.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#08141b",
   "theme_color": "#08141b",
   "icons": [
     {
